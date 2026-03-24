@@ -9,3 +9,6 @@ run setup2.sh without sudo
 and enjoy
 
 if you want contribute open an issue with the title contributor request and in the description add the reason
+
+be a contributor for add logos
+
