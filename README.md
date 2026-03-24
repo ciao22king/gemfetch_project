@@ -1,2 +1,8 @@
-# gemfetch_project
-welcome to gemfetch i create this for linux
+# gemfetch
+
+`gemfetch` is a small, fast system info fetch tool for Linux terminals.
+
+run setup1.sh with sudo 
+then
+run setup2.sh without sudo
+and enjoy
