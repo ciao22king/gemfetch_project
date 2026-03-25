@@ -1,6 +1,5 @@
 package main
 
-// Default ASCII logo: Tux (more recognizable)
 var tuxLogo = []string{
 	"        .--.            ",
 	"       |o_o |           ",
@@ -12,7 +11,7 @@ var tuxLogo = []string{
 	"          Tux           ",
 }
 
-// For now we always show Tux for any distro.
 func loadLogo(_ string) []string {
 	return tuxLogo
 }
+
