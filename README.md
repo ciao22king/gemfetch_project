@@ -12,6 +12,7 @@ if you want contribute open an issue with the title contributor request and in t
 
 be a contributor for add logos
 what it install?
+  git \
   golang-go \
   coreutils \
   procps \
