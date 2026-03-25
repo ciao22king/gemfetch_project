@@ -11,4 +11,17 @@ and enjoy
 if you want contribute open an issue with the title contributor request and in the description add the reason
 
 be a contributor for add logos
-
+what it install?
+  golang-go \
+  coreutils \
+  procps \
+  util-linux \
+  pciutils \
+  x11-xserver-utils \
+  iproute2 \
+  network-manager \
+  wireless-tools \
+  iw \
+  lm-sensors \
+  wmctrl \
+  upower
