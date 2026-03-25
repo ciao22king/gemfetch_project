@@ -217,6 +217,3 @@ func main() {
 		// %-25s keeps the logo column at a fixed width.
 		fmt.Printf(" %-25s %s\n", lLine, iLine)
 	}
-
-	fmt.Printf("\n %s © Gem 2026 - MacBook Pro 2012 Original %s\n\n", Gold, Reset)
-}
