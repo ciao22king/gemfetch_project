@@ -19,8 +19,7 @@ echo "Updating apt index..."
 sudo apt-get update
 
 echo "Installing dependencies..."
-sudo apt-get install -y \
-  git \
+sudo apt-get install -y 
   golang-go \
   coreutils \
   procps \
