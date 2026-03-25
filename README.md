@@ -27,3 +27,11 @@ what it install?
   lm-sensors \
   wmctrl \
   upower
+
+  ⚠️ Compatibility & Bugs
+GemFetch is currently at version 1.0.0.
+While it has been tested on several major distributions (like Ubuntu and Arch), it hasn't been tested on every single Linux distro out there.
+Notice: You might encounter some bugs or missing ASCII logos on specific systems.
+Help wanted: If you find an issue, please open a GitHub Issue or submit a Pull Request.
+Let's make it better together! 🚀
+  
