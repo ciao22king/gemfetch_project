@@ -8,7 +8,6 @@ import (
 	"strings"
 )
 
-// ANSI color configuration
 const (
 	Cyan  = "\033[38;5;51m"
 	White = "\033[38;5;255m"
@@ -169,7 +168,6 @@ func main() {
 		fmt.Sprintf("%s%-*s%s %s", Grey, labelWidth, "Arch:", White, runtime.GOARCH),
 	}
 
-	// 4) Final print (logo on the left, info on the right; logo vertically centered)
 	fmt.Println()
 
 	maxLines := len(info)
@@ -177,14 +175,12 @@ func main() {
 		maxLines = len(logo)
 	}
 
-	// Offset to vertically center the logo within the overall output height.
 	logoOffset := 0
 	if maxLines > len(logo) {
 		logoOffset = (maxLines - len(logo)) / 2
 	}
 
 	for i := 0; i < maxLines; i++ {
-		// Compute logo line index with offset
 		lLine := " "
 		logoIndex := i - logoOffset
 		if logoIndex >= 0 && logoIndex < len(logo) {
@@ -196,6 +192,7 @@ func main() {
 			iLine = info[i]
 		}
 
-		// %-25s keeps the logo column at a fixed width.
 		fmt.Printf(" %-25s %s\n", lLine, iLine)
 	}
+}
+
