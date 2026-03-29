@@ -2,6 +2,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Platform](https://img.shields.io/badge/platform-linux-lightgrey)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![Author](https://img.shields.io/badge/by-ciao22king-orange?style=flat-square&logo=github)
 
 
 # gemfetch
