@@ -34,4 +34,5 @@ While it has been tested on several major distributions (like Ubuntu), it hasn't
 Notice: You might encounter some bugs or missing ASCII logos on specific systems.
 Help wanted: If you find an issue, please open a GitHub Issue or submit a Pull Request.
 Let's make it better together! 🚀
-  
+  <img width="1277" height="585" alt="Snapshot_2026-03-24_11-57-30" src="https://github.com/user-attachments/assets/6acf9654-2d84-4978-8f71-7df105db5b86" />
+
