@@ -31,11 +31,11 @@ what it install?
   How to install
   first download the zip or clone the repo
   if you have the zip open and extract in home
-  then open terminal and do cd gemfetch_project
+  then open terminal and do cd and drag the folder
   and run chmod +x setup1.sh 
   chmod +x setup2.sh
-  then do sudo setup1.sh 
-  and setup1.sh
+  then do sudo and drag the file setup1.sh
+  and drag the setup2.sh without sudo
   write gemfetch in the terminal
   
   ⚠️ Compatibility & Bugs
