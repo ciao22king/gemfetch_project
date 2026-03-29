@@ -27,7 +27,15 @@ what it install?
   lm-sensors \
   wmctrl \
   upower
-
+  How to install
+  first download the zip or clone the repo
+  if you have the zip open and extract
+  then open terminal and do cd gemfetch_project
+  and run chmod +x setup1.sh 
+  chmod +x setup2.sh
+  then do sudo setup1.sh 
+  and setup1.sh
+  write gemfetch in the terminal
   ⚠️ Compatibility & Bugs
 GemFetch is currently at version 1.0.0.
 While it has been tested on several major distributions (like Ubuntu), it hasn't been tested on every single Linux distro out there.
