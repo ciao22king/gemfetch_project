@@ -1,3 +1,6 @@
+![GemFetch](https://img.shields.io/badge/Gem-Fetch-brightgreen?labelColor=green&color=blue)
+
+
 # gemfetch
 
 `gemfetch` is a small, fast system info fetch tool for Linux terminals.
