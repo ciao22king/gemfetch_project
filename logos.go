@@ -11,7 +11,6 @@ var tuxLogo = []string{
 	"          Tux           ",
 }
 
-func loadLogo(_ string) []string {
+func loadLogo(dist string) []string {
 	return tuxLogo
 }
-
